@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">activdad2</string>
+    <string name="btn_inicar">iniciar</string>
+    <string name="btn_finalizar">finalizar</string>
 </resources>
